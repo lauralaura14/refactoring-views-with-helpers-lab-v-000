@@ -17,3 +17,6 @@ group :development do
   gem 'web-console', '~> 2.0'
 end
 
+#gem 'bundler', '~> 1.16', '>= 1.16.1'
+#gem 'sqlite3', '~> 1.3', '< 1.4'
+# gem install bundler -v 1.16.1    bundle _1.16.1_ install
