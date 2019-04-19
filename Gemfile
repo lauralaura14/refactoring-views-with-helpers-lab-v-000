@@ -21,4 +21,3 @@ end
 #gem 'sqlite3', '~> 1.3', '< 1.4'
 # gem install bundler -v 1.16.1    bundle _1.16.1_ install
 
-, '4.2.5'
